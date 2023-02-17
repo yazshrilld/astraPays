@@ -9,7 +9,7 @@ const Details = () => {
     <>
         <div className='m-3 grid grid-cols-1 lg:grid-cols-2 justify-between gap-4 items-center mt-[0]'>
             <div className='border border-red-700 h-screen'>
-                
+                <h1>Yazid</h1>
             </div>
             <div className='border h-screen'>
                 <div className='min-h-screen bg-blue-900'>
